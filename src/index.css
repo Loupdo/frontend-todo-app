@@ -1,0 +1,32 @@
+.Logo {
+  font-size: 20pt;
+}
+
+.error {
+  font-size: 10pt;
+  color: red;
+  text-align: center;
+}
+
+.formLogin > input,
+.formRegister input {
+  margin-bottom: 20px;
+}
+
+.formTodos > label,
+.formTodos > input {
+  margin-bottom: 20px;
+}
+
+.formLogin,
+.formRegister,
+.formTodos {
+  margin-top: 30px;
+  border: 2px solid rgb(13, 202, 238);
+  padding: 40px 2% 10px;
+  border-radius: 25px;
+}
+
+.formTodos {
+  margin-bottom: 20px;
+}
